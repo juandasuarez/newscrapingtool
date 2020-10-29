@@ -1,4 +1,4 @@
-# newscrapingtool
+# News Scraping Tool
 A scraper tool that brings news in .txt format from the page "fichajes.com". It is part of "Fundamentals of Web Scraping" course of Platzi. 
 
 "Fichajes.com" is a soccer news page from Spain. 
