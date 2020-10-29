@@ -1,0 +1,6 @@
+Links: //article[@class="articleFeatured " or @class="articleItem articleItem--withImage "]/a/@href
+Titles: //section/div[2]/div/article/div/h1/text()
+Competition: //div[@class="side__bloc noSmall"]/ul/li[@class="article__cards__competition"]/div/div[@class="dataCard__infos"]/a/text()
+Teams: //div[@class="side__bloc noSmall"]/ul/li[@class="article__cards__team"]/div/div[@class="dataCard__infos"]/a/text()
+Players: //div[@class="side__bloc noSmall"]/ul/li[@class="article__cards__person"]/div/div[@class="dataCard__infos"]/a/text()
+
